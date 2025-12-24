@@ -97,8 +97,8 @@ const Hero: React.FC = () => {
                  <Trophy className="text-yellow-400 fill-current" size={28} />
                </div>
                <div className="flex flex-col">
-                 <span className="text-[10px] text-yellow-500 uppercase font-bold tracking-widest leading-none mb-1">Ganadores</span>
-                 <span className="font-display text-3xl text-white leading-none">MUNDIALITO</span>
+                 <span className="text-[10px] text-yellow-500 uppercase font-bold tracking-widest leading-none mb-1">EL CLAN</span>
+                 <span className="font-display text-3xl text-white leading-none">ES ALGO HERMOSO</span>
                </div>
              </div>
            </div>
